@@ -1,6 +1,6 @@
 Benchmarking dask-searchcv with docker. 
 
-Useful for running benchmarks multiple times in a (semi?-)isolated fashion on spot instances.
+Useful for running benchmarks multiple times in a (semi?-)isolated fashion on EC2 spot instances.
 
 Run with:
 
